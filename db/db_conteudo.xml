@@ -1,0 +1,132 @@
+<!--orientado em uma estrutura de banco de dados-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- a tag conteudo é o nosso banco de dados-->
+<conteudo>
+   <postagem codigo="1">
+      <titulo>Júpiter terá sua menor distância da Terra em quase 60 anos</titulo>
+
+      <corpo>Durante a noite da próxima segunda-feira  (26), quem gosta de observar os céus poderá ver Júpiter mais de perto. O planeta atinge nessa data seu ponto de oposição, que ocorre quando um corpo celeste surge no leste enquanto o Sol se põe no oeste, o que coloca o objeto astronômico e o Sol em lados opostos da Terra.
+
+      A oposição de Júpiter ocorre a cada 13 meses e faz com que o planeta pareça maior e mais brilhante do que em qualquer outra época do ano. Mas, na semana que vem, além da posição de oposição, o planeta também estará no ponto mais perto da Terra nos últimos 59 anos.
+
+      O planeta estará a aproximadamente 590 milhões de km de distância da Terra. Em seu ponto mais distante da Terra, esse espaço é de aproximadamente 965 milhões de km de distância.
+
+     “Com bons binóculos, as faixas centrais e três ou quatro dos satélites galileanos (luas) devem estar visíveis”, afirmou Adam Kobelski, astrofísico pesquisador do Marshall Space Flight Center da Nasa, agência espacial americana.
+
+     Kobelski recomenda o uso de um telescópio maior para ver a Grande Mancha Vermelha e as bandas de Júpiter com mais detalhes; um equipamento de quatro polegadas ou maior.
+
+     De acordo com o astrofísico, o local ideal para tentar avistar o planeta gigante será um lugar de altitude elevada e em uma área sem muita luminosidade artificial, além de clima mais seco.
+
+    A boa visibilidade deve durar alguns dias antes e alguns dias depois do dia 26 e, fora a Lua, Júpiter deve ser um dos corpos celestes mais brilhantes no céu noturno.
+
+    O planeta tem 53 luas conhecidas e nomeadas, mas os cientistas acreditam que 79 tenham sido detectadas no total. As quatro maiores, Io, Europa, Ganimedes e Calisto, são chamadas de satélites galileanos, nomeados em referência a Galileu Galilei, que os observou pela primeira vez em 1610.
+
+    Com o uso de binóculos ou telescópios, esses satélites galileanos devem aparecer como pontos brilhantes em ambos os lados de Júpiter durante o período de oposição. </corpo>
+      <imagem_1 fileName="img_a.jpg">img_a.jpg</imagem_1>
+   </postagem> 
+
+    <postagem codigo="2">
+      <titulo>Telescópio Webb captura sua primeira imagem direta de um exoplaneta</titulo>
+
+      <corpo>Os astrônomos capturaram a primeira imagem direta de um exoplaneta com o Telescópio Espacial James Webb.
+       O exoplaneta, ou planeta fora do nosso sistema solar, é um gigante gasoso com cerca de seis a 12 vezes a massa de Júpiter. O planeta, chamado HIP 65426 b, tem cerca de 15 a 20 milhões de anos — apenas um planeta bebê quando comparado a cEarth, que tem 4,5 bilhões de anos.
+       
+       O planeta pode ser visto em quatro bandas diferentes de luz infravermelha, captadas pelos diferentes instrumentos de Webb. Webb vê o universo em luz infravermelha, que é invisível ao olho humano — e o torna o observatório espacial perfeito para revelar detalhes sobre mundos distantes.
+
+      “Este é um momento transformador, não apenas para Webb, mas também para a astronomia em geral”, disse Sasha Hinkley, professor associado de física e astronomia da Universidade de Exeter, no Reino Unido, em um comunicado.
+
+      Hinkley liderou as observações dentro de uma colaboração internacional.
+ 
+      O exoplaneta foi descoberto pela primeira vez em 2017 usando o Very Large Telescope do Observatório Europeu do Sul e seu instrumento SPHERE, localizado no Chile. O instrumento capturou imagens do planeta, em seguida, através de comprimentos de onda infravermelhos curtos, mas a capacidade do Webb de ver comprimentos de onda infravermelhos mais longos pode lançar luz sobre novos detalhes.
+
+      Os cientistas estão analisando os dados do HIP 65426 b do Webb e um próximo estudo será submetido a periódicos para revisão por pares.
+
+      O exoplaneta está cerca de cem vezes mais distante de sua estrela hospedeira do que a Terra está do Sol, o que permitiu que Webb e seus instrumentos separassem o planeta de sua estrela.
+
+      Alguns dos instrumentos de Webb estão armados com coronógrafos, ou máscaras que podem bloquear a luz das estrelas, permitindo que o telescópio capture imagens diretas de exoplanetas.
+
+      As estrelas são muito mais brilhantes que os planetas e, neste caso, HIP 65426 b é mais de 10 mil vezes mais fraca que sua estrela hospedeira em luz infravermelha próxima.
+
+     “Obter esta imagem foi como cavar um tesouro espacial”, disse Aarynn Carter, líder de análise das imagens e pesquisador de pós-doutorado na Universidade da Califórnia, em Santa Cruz, em um comunicado. “No começo, tudo o que eu conseguia ver era a luz da estrela, mas com um cuidadoso processamento de imagem consegui remover essa luz e descobrir o planeta.”
+
+     Enquanto o Telescópio Espacial Hubble foi o primeiro a capturar imagens diretas de exoplanetas, a exploração infravermelha de exoplanetas de Webb está apenas começando. O telescópio já compartilhou o primeiro espectro de um exoplaneta ao detectar uma assinatura de água em sua atmosfera e encontrou a primeira evidência clara de dióxido de carbono na atmosfera de um exoplaneta.
+
+     E o observatório espacial só começou a fazer observações científicas neste verão.
+
+     “Acho que o mais empolgante é que estamos apenas começando”, disse Carter. “Há muito mais imagens de exoplanetas por vir que moldarão nossa compreensão geral de sua física, química e formação. Podemos até descobrir planetas anteriormente desconhecidos também.”</corpo>
+
+      <imagem_1 fileName="img_b.jpg">img_b.jpg</imagem_1>
+   </postagem> 
+
+    <postagem codigo="3">
+      <titulo>Nasa cancela lançamento de missão Artemis 1 nesta segunda</titulo>
+      <corpo>A Nasa precisou cancelar os planos de lançar, nesta segunda-feira (29), a missão não tripulada Artemis I.
+
+       “Equipes continuarão a coletar dados e manteremos vocês informados sobre o horário da próxima tentativa de lançamento”, escreveu a Nasa no Twitter.
+       
+       Até o início da janela de tempo prevista para o lançamento, as equipes da agência espacial americana trabalhavam para resolver um problema inesperado em um dos motores.
+
+       O lançamento deveria acontecer entre as 9h33 e 11h33, no horário de Brasília.
+
+       A equipe descobriu um problema durante o processo de sangrar o ar em um dos quatro motores do foguete e trabalhava para reconfigurá-lo. Até a última atualização, seus esforços não foram eficazes.
+
+       Durante as sangrias, o hidrogênio passa pelo motor para condicioná-lo para o lançamento. Três dos quatro mecanismos funcionavam conforme o esperado, mas o mecanismo nº 3 apresentou um problema.
+
+       Era um dia que estava sendo planejado há anos.
+
+       A missão não tripulada Artemis I decolaria em uma jornada ao redor da lua.
+        </corpo>
+      <imagem_1 fileName="img_b.jpg">img_b.jpg</imagem_1>
+   </postagem> 
+    <postagem codigo="4">
+      <titulo>Nasa pode tentar novo lançamento nesta sexta; entenda adiamento da Artemis I</titulo>
+      <corpo>O lançamento da missão não tripulada Artemis I foi cancelado depois que a equipe não conseguiu resolver um problema em um dos quatro motores do foguete.
+
+      A próxima oportunidade de lançamento é em 2 de setembro, mas se outra tentativa será feita ou não naquele dia depende de como os testes acontecerão.
+      
+      “Os controladores de lançamento continuavam avaliando por que um teste de sangria para colocar os motores RS-25 na parte inferior da plataforma central na faixa de temperatura adequada para a decolagem não foi bem-sucedido e ficou sem tempo na janela de lançamento de duas horas”, de acordo com uma atualização compartilhada pela Nasa.
+
+      “Os engenheiros continuam a coletar dados adicionais”, acrescentou a agência espacial americana.
+
+      A equipe de lançamento ainda precisa solucionar o problema do motor e manterá o foguete em sua configuração atual para coletar dados e avaliar o que precisa ser feito.
+
+    Tanto o foguete do Sistema de Lançamento Espacial quanto a espaçonave Orion, posicionados na plataforma de lançamento 39B no Centro Espacial Kennedy da Nasa, na Flórida, permanecem estáveis, de acordo com funcionários da Nasa.
+
+    Antes da limpeza, a contagem regressiva foi estendida para uma espera não planejada enquanto a equipe de lançamento trabalhava em um plano de solução de problemas para um dos quatro motores do foguete.
+
+   Isso porque a equipe de lançamento descobriu um problema com a sangria de motor no motor nº 3. As tentativas de reconfigurá-lo não foram bem sucedidas.
+
+   Durante as sangrias do motor, o hidrogênio passa pelo motor para condicioná-lo para o lançamento. Três dos quatro motores estão funcionando conforme o esperado, mas o motor nº 3 apresentou um problema.
+
+   O administrador da Nasa, Bill Nelson, abordou o cancelamento logo após o anúncio, enfatizando que a Artemis I é um voo de teste.
+
+   “Não lançamos até que esteja certo”, disse Nelson.
+
+   “Eles têm um problema com os gases da sangria em um motor. É apenas ilustrativo que esta é uma máquina muito complicada, um sistema muito complicado, e todas essas coisas precisam funcionar. Você não acende a vela até que esteja pronto para ir”, acrescentou.
+
+   É algo com o qual Nelson tem experiência pessoal. Como astronauta, ele estava no 24º voo do ônibus espacial. Seu lançamento foi adiado quatro vezes e a quinta tentativa resultou em uma missão impecável.
+
+   “Se tivéssemos lançado em qualquer um desses cancelamentos, não teria sido um bom dia”, disse ele.
+
+   Mais informações serão compartilhadas em uma entrevista coletiva ainda nesta segunda-feira (29), segundo a Nasa.
+      
+      </corpo>
+      <imagem_1 fileName="img_b.jpg">img_b.jpg</imagem_1>
+   </postagem> 
+    <postagem codigo="5">
+      <titulo>Lua e Marte estão em conjunção nesta sexta; veja como observar fenômeno</titulo>
+      <corpo> Um fenômeno astronômico poderá ser observado no céu na manhã desta sexta-feira (19). A Lua, em fase minguante, e o planeta Marte estarão em conjunção. O “encontro” marca o último fenômeno no céu do mês de agosto, segundo a Nasa.
+
+      A conjunção poderá ser observada a olho nu, desde que o céu não esteja coberto por nuvens em sua região. Para apreciar o fenômeno, porém, será preciso acordar cedo ou ir dormir tarde, isso porque o melhor momento de visibilidade ocorre entre 3h30 e 5h30, quando os astros estarão mais alto no céu.
+
+      Binóculos e aplicativos destinados à observação do céu podem tornar a experiência mais acentuada.
+
+      Além da conjunção Lua e Marte, também será possível observar nesta manhã o famoso Aglomerado Estelar das Plêiades, popularmente conhecido como “As Sete Irmãs” ( Merope, Maia, Alcione, Asterope, Electra, Taigete e Celeno), que estarão no canto superior esquerdo de Marte, informou a Nasa.
+
+      s“A Lua segue seu caminho para o leste, para se juntar a Marte em 19 de agosto. Este é outro bom par para observar de binóculos, além de você encontrar o par super perto das Plêiades – você pode até observar todos no mesmo campo de visão”, escreveu a Nasa em seu site.
+
+</corpo>
+      <imagem_1 fileName="img_b.jpg">img_b.jpg</imagem_1>
+   </postagem> 
+</conteudo>
+
